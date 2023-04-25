@@ -4,7 +4,7 @@
 
 Me esfuerzo al máximo en cada proyecto en el que me involucro. Me gusta ser meticulosa y minuciosa en todo lo que hago, lo que me permite alcanzar resultados excelentes. Soy comprometida, trabajadora y responsable, siempre dispuesta a enfrentar nuevos desafíos y a trabajar arduamente para lograr mis objetivos.
 
-## Habilidades
+## Tech Skills
 
 - JavaScript
 - Node.js
@@ -15,6 +15,9 @@ Me esfuerzo al máximo en cada proyecto en el que me involucro. Me gusta ser met
 - Redux
 - Material-UI
 - Git
+
+## Soft Skills
+
 - Trabajo en equipo
 - Resolución de problemas
 - Organización 
@@ -29,7 +32,7 @@ Me esfuerzo al máximo en cada proyecto en el que me involucro. Me gusta ser met
 
 ## Contacto
 
-- LINKEDIN: https://www.linkedin.com/in/yanina-zurcher-1945b6254)
+- LINKEDIN: https://www.linkedin.com/in/yanina-zurcher-1945b6254
 - Correo electrónico: yanicorc@gmail.com
 - Telefono: 3412267234
 

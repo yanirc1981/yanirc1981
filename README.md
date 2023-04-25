@@ -1,16 +1,28 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**yanirc1981/yanirc1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻Soy Yanina Zurcher,**Full-Stack Developer* y **Tester Manual** 💻
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Node.js
+- Express.js
+- Sequelize
+- PostgreSQL
+- React.js
+- Redux
+- Material-UI
+- Git
+
+## Proyectos destacados
+
+- [PI Pokemon](https://github.com/yanirc1981/PI-POKEMON)
+- [Promanitas](https://github.com/yanirc1981/ProManitasClient)
+
+
+## Contacto
+
+- LINKEDIN: https://www.linkedin.com/in/yanina-zurcher-1945b6254)
+- Correo electrónico: yanicorc@gmail.com
+- Telefono: 3412267234
+
